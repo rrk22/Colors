@@ -10,6 +10,7 @@ public class ApplicationTest extends ApplicationTestCase<Application>
 {
     public ApplicationTest()
     {
+    	//commit test
         super(Application.class);
     }
 }
